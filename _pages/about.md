@@ -10,8 +10,9 @@ redirect_from:
 
 About me
 ======
-A second-year PhD student at Technische Universität München (TUM) researching software for Quantum Computing. Easygoing and tolerant to stress. Adaptable to new environments and always looking to learn new things.
+I am a PhD student at the [Chair of Distributed Systems and Operating Systems] at the Technical University of Munich (TUM), under the supervision of Prof. Pramod Bhatotia. My research is centered on advancing software for Quantum Computing, with a particular focus on quantum resource management and quantum compilers.
 
+My work spans across both Superconducting and Neutral Atoms technologies, and I am continuously exploring emerging quantum technologies to evaluate their potential applications, advantages, and limitations. Prior to my PhD, I earned a bachelor's degree in Electrical and Computer Engineering from Instituto Superior Técnico in Lisbon, where I developed a strong foundation in computing and engineering principles that continue to drive my passion for cutting-edge research in quantum computing.
 
 Publications
 ======
