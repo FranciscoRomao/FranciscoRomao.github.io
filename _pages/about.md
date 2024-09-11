@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Francisco Romão - Personal page"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,4 +10,4 @@ redirect_from:
 
 About me
 ======
-A second-year PhD student at Technische Universität München (TUM) is researching software for Quantum Computing. Easygoing and tolerant to stress. Adaptable to new environments and always looking to learn new things.
+A second-year PhD student at Technische Universität München (TUM) researching software for Quantum Computing. Easygoing and tolerant to stress. Adaptable to new environments and always looking to learn new things.
