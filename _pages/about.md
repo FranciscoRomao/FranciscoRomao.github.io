@@ -15,12 +15,13 @@ A second-year PhD student at Technische Universität München (TUM) researching 
 
 Publications
 ======
-[QOS: Quantum Operating System](https://arxiv.org/abs/2406.19120)
-Emmanouil Giortamis, **Francisco Romão**, Nathaniel Tornow, and Pramod Bhatotia
+[QOS: Quantum Operating System](https://arxiv.org/abs/2406.19120) \\
+Emmanouil Giortamis, **Francisco Romão**, Nathaniel Tornow, and Pramod Bhatotia \\
 Arxiv pre-print
 
-[Orchestrating Quantum Cloud Environments with Qonductor](https://arxiv.org/abs/2408.04312)
-Emmanouil Giortamis, **Francisco Romão**, Nathaniel Tornow, Dmitry Lugovoy, and Pramod Bhatotia
+[Orchestrating Quantum Cloud Environments with Qonductor](https://arxiv.org/abs/2408.04312) \\
+Emmanouil Giortamis, **Francisco Romão**, Nathaniel Tornow, Dmitry Lugovoy, and Pramod Bhatotia \\
+Arxiv pre-print
 
 Teaching
 ======
