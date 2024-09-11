@@ -48,5 +48,7 @@ M.Sc. thesis
 Dmitry Lugovoy \\
 M.Sc. thesis
 
-Interests
+Hobbies and Interests
 ======
+In my free time, I enjoy working with bikes, whether it’s fixing up old models or customizing them to suit my style. I also have a deep appreciation for coffee, particularly specialty coffee. Experimenting with different brewing methods has become a fun hobbie. I often go to bed thinking about the next morning’s cup. Analog photography is another hobby I’m diving into, and I’ve recently started developing my own film, which has been a rewarding creative process. \\
+Staying active is important to me as well, I regularly hit the gym, swim, and go for runs.
