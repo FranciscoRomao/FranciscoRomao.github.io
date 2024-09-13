@@ -16,6 +16,11 @@ My work spans across both Superconducting and Neutral Atoms technologies, and I 
 
 Publications
 ======
+[Weaver: A Retargetable Compiler Framework for FPQA Quantum Architectures](https://arxiv.org/abs/2409.07870) \\
+Oğuzcan Kırmemiş*, **Francisco Romão***, Emmanouil Giortamis, Pramod Bhatotia \\
+Arxiv pre-print
+(∗Both authors contributed equally)
+
 [QOS: Quantum Operating System](https://arxiv.org/abs/2406.19120) \\
 Emmanouil Giortamis, **Francisco Romão**, Nathaniel Tornow, and Pramod Bhatotia \\
 Arxiv pre-print
