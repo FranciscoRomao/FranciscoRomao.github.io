@@ -18,8 +18,8 @@ Publications
 ======
 [Weaver: A Retargetable Compiler Framework for FPQA Quantum Architectures](https://arxiv.org/abs/2409.07870) \\
 Oğuzcan Kırmemiş*, **Francisco Romão***, Emmanouil Giortamis, Pramod Bhatotia \\
-Arxiv pre-print
-(∗Both authors contributed equally)
+Arxiv pre-print \\
+<span style="font-size:3em;">(∗Both authors contributed equally)</span>
 
 [QOS: Quantum Operating System](https://arxiv.org/abs/2406.19120) \\
 Emmanouil Giortamis, **Francisco Romão**, Nathaniel Tornow, and Pramod Bhatotia \\
