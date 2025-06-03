@@ -23,7 +23,7 @@ Accepted at CGO'25
 
 [QOS: Quantum Operating System](https://arxiv.org/abs/2406.19120) \\
 Emmanouil Giortamis, **Francisco Romão**, Nathaniel Tornow, and Pramod Bhatotia \\
-Arxiv pre-print
+Accepted at OSDI'25
 
 [Orchestrating Quantum Cloud Environments with Qonductor](https://arxiv.org/abs/2408.04312) \\
 Emmanouil Giortamis, **Francisco Romão**, Nathaniel Tornow, Dmitry Lugovoy, and Pramod Bhatotia \\
@@ -41,6 +41,10 @@ Theses and Guided Research
 
 Co-Advisor
 ------
+[PulseMLIR: An MLIR Dialect for Pulse Representations in Superconducting Quantum Computers](https://github.com/TUM-DSE/research-work-archive/blob/main/archive/2024/summer/docs/gr_anders_choi_pulsemlir_an_mlir_dialect_for_pulse_representations_in_superconducting_quantum_computers.pdf) \\
+Anders Choi \\
+Guided Research
+
 [Hardware-aware Optimal Quantum Circuit Cutting and Knitting](https://github.com/TUM-DSE/research-work-archive/blob/main/archive/2023/winter/docs/msc_tran_hardware_aware_optimal_quantum_circuit_cutting_and_knitting.pdf) \\
 Thang Tran \\
 M.Sc. thesis
