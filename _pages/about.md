@@ -27,7 +27,7 @@ Accepted at OSDI'25
 
 [Orchestrating Quantum Cloud Environments with Qonductor](https://arxiv.org/abs/2408.04312) \\
 Emmanouil Giortamis, **Francisco Romão**, Nathaniel Tornow, Dmitry Lugovoy, and Pramod Bhatotia \\
-Arxiv pre-print
+Accepted at SC'25
 
 Teaching
 ======
