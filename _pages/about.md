@@ -19,15 +19,15 @@ Publications
 [Weaver: A Retargetable Compiler Framework for FPQA Quantum Architectures](https://arxiv.org/abs/2409.07870) \\
 Oğuzcan Kırmemiş\*, **Francisco Romão**\*, Emmanouil Giortamis, Pramod Bhatotia \\
 <span style="font-size:0.8em;">(*Both authors contributed equally)</span> \\
-Accepted at CGO'25
+[[Code](https://github.com/TUM-DSE/weaver)] [[Slides](https://franciscoromao.github.io/files/Weaver-CGO25)] Accepted at CGO'25
 
 [QOS: Quantum Operating System](https://arxiv.org/abs/2406.19120) \\
 Emmanouil Giortamis, **Francisco Romão**, Nathaniel Tornow, and Pramod Bhatotia \\
-Accepted at OSDI'25
+[[Code](https://github.com/TUM-DSE/QOS)] [[Slides](https://franciscoromao.github.io/files/QOS-OSDI-2025-slides)] Accepted at OSDI'25
 
 [Orchestrating Quantum Cloud Environments with Qonductor](https://arxiv.org/abs/2408.04312) \\
 Emmanouil Giortamis, **Francisco Romão**, Nathaniel Tornow, Dmitry Lugovoy, and Pramod Bhatotia \\
-Accepted at SC'25
+[Code] [Slides] Accepted at SC'25
 
 Teaching
 ======
