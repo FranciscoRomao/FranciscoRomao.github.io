@@ -33,7 +33,9 @@ Teaching
 ======
 
 Quantum Software Systems seminar [Summer semester 2024]
+
 Systems programming [Summer semester 2025]
+
 Cloud lab [Winter semester 23] [Winter semester 24]
 
 Theses and Guided Research
