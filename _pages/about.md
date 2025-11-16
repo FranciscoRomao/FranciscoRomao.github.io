@@ -16,31 +16,35 @@ My work spans across both Superconducting and Neutral Atoms technologies, and I 
 
 Publications
 ======
-[Weaver: A Retargetable Compiler Framework for FPQA Quantum Architectures](https://arxiv.org/abs/2409.07870) \\
+[Weaver: A Retargetable Compiler Framework for FPQA Quantum Architectures](/files/Weaver_cgo25.pdf) \\
 Oğuzcan Kırmemiş\*, **Francisco Romão**\*, Emmanouil Giortamis, Pramod Bhatotia \\
 <span style="font-size:0.8em;">(*Both authors contributed equally)</span> \\
-[[Code](https://github.com/TUM-DSE/weaver)] [[Slides](https://franciscoromao.github.io/files/Weaver-CGO25)] Accepted at CGO'25
+[[Code](https://github.com/TUM-DSE/weaver)] [[Slides](/files/Weaver_cgo25_slides.pdf)] [[Arxiv](https://arxiv.org/abs/2409.07870)] Accepted at CGO'25
 
-[QOS: Quantum Operating System](https://arxiv.org/abs/2406.19120) \\
+[QOS: Quantum Operating System](/files/QOS_osdi25.pdf) \\
 Emmanouil Giortamis, **Francisco Romão**, Nathaniel Tornow, and Pramod Bhatotia \\
-[[Code](https://github.com/TUM-DSE/QOS)] [[Slides](https://franciscoromao.github.io/files/QOS-OSDI-2025-slides)] Accepted at OSDI'25
+[[Code](https://github.com/TUM-DSE/QOS)] [[Slides](/files/QOS_osdi25_slides.pdf)] [[Arxiv](https://arxiv.org/abs/2406.19120)] Accepted at OSDI'25
 
-[Orchestrating Quantum Cloud Environments with Qonductor](https://arxiv.org/abs/2408.04312) \\
+[Orchestrating Quantum Cloud Environments with Qonductor](/files/Qonductor_sc25.pdf) \\
 Emmanouil Giortamis, **Francisco Romão**, Nathaniel Tornow, Dmitry Lugovoy, and Pramod Bhatotia \\
-[Code] [Slides] Accepted at SC'25
+[[Code](https://github.com/manosgior/Qonductor-SC25)] [Slides] [[Arxiv](https://arxiv.org/abs/2408.04312)] Accepted at SC'25
 
 Teaching
 ======
 
-Quantum Software Systems seminar (Lead): April 2024 - August 2024
-Cloud Software Engineering lab (Tutor): October 2023 - March 2024
-
+Quantum Software Systems seminar [Summer semester 2024]
+Systems programming [Summer semester 2025]
+Cloud lab [Winter semester 23] [Winter semester 24]
 
 Theses and Guided Research
 ======
 
 Co-Advisor
 ------
+[A Formal Verification Model and Language for the Correctness of Programs on Neutral-Atom Quantum Computers](https://github.com/TUM-DSE/research-work-archive/blob/main/archive/2025/summer/docs/msc_daniel.pdf) \\
+Daniel Vonk \\
+M.Sc. thesis
+
 [PulseMLIR: An MLIR Dialect for Pulse Representations in Superconducting Quantum Computers](https://github.com/TUM-DSE/research-work-archive/blob/main/archive/2024/summer/docs/gr_anders_choi_pulsemlir_an_mlir_dialect_for_pulse_representations_in_superconducting_quantum_computers.pdf) \\
 Anders Choi \\
 Guided Research
