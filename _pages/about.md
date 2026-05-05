@@ -32,11 +32,13 @@ Emmanouil Giortamis, **Francisco Romão**, Nathaniel Tornow, Dmitry Lugovoy, and
 Teaching
 ======
 
-Quantum Software Systems seminar [Summer semester 2024]
+Quantum Software Systems Seminar [Summer semester 2024]
 
-Systems programming [Summer semester 2025]
+Systems Programming [Summer semester 2025]
 
-Cloud lab [Winter semester 23] [Winter semester 24]
+Cloud Lab [Winter semester 2023] [Winter semester 2024]
+
+Cloud Engineering Lab [Summer semester 2026]
 
 Theses and Guided Research
 ======
