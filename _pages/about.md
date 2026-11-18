@@ -16,18 +16,23 @@ My work spans across both Superconducting and Neutral Atoms technologies, and I 
 
 Publications
 ======
-[Weaver: A Retargetable Compiler Framework for FPQA Quantum Architectures](/files/Weaver_cgo25.pdf) \\
+[MultiQ: A Compiler-Runtime and Verifier for Multiprogramming Neutral Atom Architectures](/files/MultiQ_CGO_27_Revision.pdf) \\
 Oğuzcan Kırmemiş\*, **Francisco Romão**\*, Emmanouil Giortamis, Pramod Bhatotia \\
 <span style="font-size:0.8em;">(*Both authors contributed equally)</span> \\
-[[Code](https://github.com/TUM-DSE/weaver)] [[Slides](/files/Weaver_cgo25_slides.pdf)] [[Arxiv](https://arxiv.org/abs/2409.07870)] Accepted at CGO'25
+[[Code]()] [[Slides]()] [[Arxiv](https://arxiv.org/abs/2601.08504)] Accepted at CGO'27
+
+[Orchestrating Quantum Cloud Environments with Qonductor](/files/Qonductor_sc25.pdf) \\
+Emmanouil Giortamis, **Francisco Romão**, Nathaniel Tornow, Dmitry Lugovoy, and Pramod Bhatotia \\
+[[Code](https://github.com/manosgior/Qonductor-SC25)] [Slides] [[Arxiv](https://arxiv.org/abs/2408.04312)] Accepted at SC'25
 
 [QOS: Quantum Operating System](/files/QOS_osdi25.pdf) \\
 Emmanouil Giortamis, **Francisco Romão**, Nathaniel Tornow, and Pramod Bhatotia \\
 [[Code](https://github.com/TUM-DSE/QOS)] [[Slides](/files/QOS_osdi25_slides.pdf)] [[Arxiv](https://arxiv.org/abs/2406.19120)] Accepted at OSDI'25
 
-[Orchestrating Quantum Cloud Environments with Qonductor](/files/Qonductor_sc25.pdf) \\
-Emmanouil Giortamis, **Francisco Romão**, Nathaniel Tornow, Dmitry Lugovoy, and Pramod Bhatotia \\
-[[Code](https://github.com/manosgior/Qonductor-SC25)] [Slides] [[Arxiv](https://arxiv.org/abs/2408.04312)] Accepted at SC'25
+[Weaver: A Retargetable Compiler Framework for FPQA Quantum Architectures](/files/Weaver_cgo25.pdf) \\
+Oğuzcan Kırmemiş\*, **Francisco Romão**\*, Emmanouil Giortamis, Pramod Bhatotia \\
+<span style="font-size:0.8em;">(*Both authors contributed equally)</span> \\
+[[Code](https://github.com/TUM-DSE/weaver)] [[Slides](/files/Weaver_cgo25_slides.pdf)] [[Arxiv](https://arxiv.org/abs/2409.07870)] Accepted at CGO'25
 
 Teaching
 ======
