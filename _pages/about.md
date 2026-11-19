@@ -16,9 +16,8 @@ My work spans across both Superconducting and Neutral Atoms technologies, and I 
 
 Publications
 ======
-[MultiQ: A Compiler-Runtime and Verifier for Multiprogramming Neutral Atom Architectures](/files/MultiQ_CGO_27_Revision.pdf) \\
-Oğuzcan Kırmemiş\*, **Francisco Romão**\*, Emmanouil Giortamis, Pramod Bhatotia \\
-<span style="font-size:0.8em;">(*Both authors contributed equally)</span> \\
+[MultiQ: A Compiler-Runtime and Verifier for Multiprogramming Neutral Atom Quantum Architectures](/files/MultiQ_CGO_27_Revision.pdf) \\
+**Francisco Romão**, Daniel Vonk,  Emmanouil Giortamis, Dennis Sprokholt, Pramod Bhatotia \\
 [[Code]()] [[Slides]()] [[Arxiv](https://arxiv.org/abs/2601.08504)] Accepted at CGO'27
 
 [Orchestrating Quantum Cloud Environments with Qonductor](/files/Qonductor_sc25.pdf) \\
